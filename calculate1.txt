@@ -17,6 +17,13 @@ import os
 
 
 
+
+
+
+
+
+
+
 #修改matlab middle表格
 #data=pd.read_csv(r"D:\redianliangong\12.csv")  #csv文件读入，不能有中文路径；excel转csv的文件需要重新选择编码格式（UTF8）
      #with open(_file_,'D:\redianliangong\middle.xlsx') as f:
